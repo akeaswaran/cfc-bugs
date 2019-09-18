@@ -6,6 +6,8 @@
 
 Hey! Here's a helpful little bug tracker for known issues with [College Football Coach for iOS](https://akeaswaran.me/cfc-ios), so if you have a bug to report you can check the “Issues” tab up above to see if it's already been reported. I'm just one guy working on CFC so I can't promise I'll be able to fix the bug in a report instantly, but I do really want to know about the bugs so I can fix them as soon as I can!
 
+<sub><sup>This issue tracker, its description, and its templates were borrowed from <a href="https://github.com/christianselig">Christian Selig</a>'s [issue tracker](https://github.com/christianselig/apollo-bugs) for the [Apollo for Reddit app](https://apolloapp.io).</sup></sub>
+
 ### How do I report a bug?
 
 To create a report, you'll need a [GitHub account](https://github.com/), which is super fast (and free) to do.
@@ -37,7 +39,3 @@ Of course! But please try to stay on topic to the specific bug report, so contri
 ### Am I not allowed to post bugs to the subreddit (r/FootballCoach)?
 
 You totally can if you feel like it'd be worthwhile for discussion or some other reason, but GitHub is the preferred place if you're able to (again, just to keep everything organized).
-
----
-
-<sub><sup>This issue tracker, its description, and its templates were borrowed from <a href="https://github.com/christianselig">Christian Selig</a>'s [issue tracker](https://github.com/christianselig/apollo-bugs) for the [Apollo for Reddit app](https://apolloapp.io).</sup></sub>
