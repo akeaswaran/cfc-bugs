@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://i.imgur.com/NBtg2lC.png" width=200 />
+  <img src="http://i.imgur.com/NBtg2lC.png" />
 </p>
 
 # College Football Coach Bug Tracker 🐛
