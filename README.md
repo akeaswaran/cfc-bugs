@@ -28,8 +28,6 @@ GitHub's an awesome site that's really well-suited for bug tracking. It'll keep 
 
 ### What if I have a feature request, not a bug report?
 
-~~We have a separate place for feature requests (for organization), check out https://apolloapp.io/feature-requests~~
-
 TBA.
 
 ### Can I participate in discussions here?
