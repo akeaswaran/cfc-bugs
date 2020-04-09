@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Create a report to help improve College Football Coach
-title: ''
+title: Please fill out the template so that I can help you most effectively.
 labels: bug
 assignees: ''
 
@@ -18,7 +18,7 @@ Steps to reproduce the behavior:
 4. See error
 
 **iOS version**: Version of iOS this bug occurred on (can be found in Settings.app > General)
-**CFC version**: Version of Apollo this bug occurred on (can be found in CFC's My Team/Career tab > Gear icon > scroll to the bottom)
+**CFC version**: Version of CFC this bug occurred on (can be found in CFC's My Team/Career tab > Gear icon > scroll to the bottom)
 **iOS device**: For example iPhone XS, iPad mini, etc.
 **Jailbroken**: Whether or not your device is jailbroken
 **Reproducible:** Can you reproduce it every time? Or is it random?
