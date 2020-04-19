@@ -1,11 +1,13 @@
 ---
 name: Bug Report
 about: Create a report to help improve College Football Coach
-title: Please fill out the template so that I can help you most effectively.
+title: Please provide a descriptive title here, then fill out the rest of the template.
 labels: bug
 assignees: ''
 
 ---
+
+Please fill out the template below to make sure I can assist you most effectively.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
