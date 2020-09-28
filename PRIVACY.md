@@ -1,7 +1,7 @@
 Privacy Policy
 ----
 
-As a game/app, College Football Coach does not collect any of your data for me (Akshay Easwaran) to use or sell. 
+As a game/app, College Football Coach **does not collect any of your data** for me (Akshay Easwaran) to use or sell. 
 
 ### Prior to Version 4.2
 
