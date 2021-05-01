@@ -23,6 +23,13 @@ Steps to reproduce the behavior:
 **CFC version**: Version of CFC this bug occurred on (can be found in CFC's My Team/Career tab > Gear icon > scroll to the bottom)
 **iOS device**: For example iPhone XS, iPad mini, etc.
 **Jailbroken**: Whether or not your device is jailbroken
+**Save File Config**: The configuration you have enabled in your save file.
+- Mode (Career or School/Normal)
+- Difficulty (Easy or Hard)
+- Manage Coaching Staff (On or Off)
+- Promotion/Relegation (On or Off)
+- Automated Recruiting (On or Off)
+
 **Reproducible:** Can you reproduce it every time? Or is it random?
 
 **Expected behavior**
